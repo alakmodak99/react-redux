@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "title": "Learn Redux",
+      "status": false,
+      "id": 1
+    },
+    {
+      "title": "Contruct Week",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "Redux Is all Around",
+      "status": false,
+      "id": 3
+    }
+  ]
+}
